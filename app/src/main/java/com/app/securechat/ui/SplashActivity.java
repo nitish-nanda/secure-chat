@@ -1,11 +1,11 @@
-package com.app.firebasechatdemo.ui;
+package com.app.securechat.ui;
 
 import android.os.Handler;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.app.firebasechatdemo.R;
+import com.app.securechat.R;
 
 public class SplashActivity extends AppCompatActivity {
 

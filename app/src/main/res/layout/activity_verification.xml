@@ -10,7 +10,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".ui.VerificationActivity">
+    tools:context="com.app.securechat.ui.VerificationActivity">
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"

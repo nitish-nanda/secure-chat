@@ -1,4 +1,4 @@
-package com.app.firebasechatdemo;
+package com.app.securechat;
 
 import androidx.multidex.MultiDexApplication;
 

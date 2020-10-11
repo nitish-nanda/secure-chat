@@ -1,4 +1,4 @@
-package com.app.firebasechatdemo.reciever;
+package com.app.securechat.reciever;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

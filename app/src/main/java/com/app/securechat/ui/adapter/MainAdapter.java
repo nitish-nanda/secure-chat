@@ -1,4 +1,4 @@
-package com.app.firebasechatdemo.ui.adapter;
+package com.app.securechat.ui.adapter;
 
 import android.content.Context;
 import android.view.Gravity;
@@ -10,14 +10,13 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.app.firebasechatdemo.R;
-import com.app.firebasechatdemo.data.model.ChatModel;
+import com.app.securechat.R;
+import com.app.securechat.data.model.ChatModel;
 
 import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import lombok.Getter;
 
 public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
 

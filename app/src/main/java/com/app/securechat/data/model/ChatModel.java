@@ -1,4 +1,4 @@
-package com.app.firebasechatdemo.data.model;
+package com.app.securechat.data.model;
 
 import java.io.Serializable;
 

@@ -1,10 +1,12 @@
-package com.app.firebasechatdemo;
+package com.app.securechat;
 
 import android.app.Dialog;
 import android.content.Context;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.view.Window;
+
+import com.app.securechat.R;
 
 public class Progress {
 

@@ -1,4 +1,4 @@
-package com.app.firebasechatdemo;
+package com.app.securechat;
 
 import android.content.Context;
 import androidx.test.InstrumentationRegistry;
